@@ -1,2 +1,2 @@
 # NetworkAnalysis
-Intro to Data Analytics' Project 2021
+Intro to Data Analytics Project 2021
